@@ -1,0 +1,57 @@
+[
+    {
+      "title": " squat",
+      "time": "45 seconds",
+      "thumbnail": "Assets/squat1.jpg",
+      "videoUrl": "https://media.physitrack.com/exercises/7c360268-adbf-458a-b004-4eb57bc48f6d/en/video_720p.mp4"
+    },
+    {
+      "title": "Plie Squat and Heel Raises",
+      "time": "55 seconds",
+      "thumbnail": "Assets/squat2.jpg",
+      "videoUrl": "https://media.physitrack.com/exercises/3ab65604-96ad-4fcd-abe3-90e04a4b5356/en/video_720p.mp4"
+    },
+    {
+      "title": "Single leg mini squat",
+      "time": "60 seconds",
+      "thumbnail": "Assets/squat3.jpg",
+      "videoUrl": "https://media.physitrack.com/exercises/36bb1ff1-d774-47fd-ab36-8dc96c156775/en/video_720p.mp4"
+    },
+    {
+      "title": "Lunge with rotation",
+      "time": "120 seconds",
+      "thumbnail": "Assets/squat4.jpg",
+      "videoUrl": "https://media.physitrack.com/exercises/2719b300-c7c2-41b1-8267-b2265d83e16b/en/video_720p.mp4"
+    },
+    {
+      "title": "Single leg knee hug in supine",
+      "time": "120 seconds",
+      "thumbnail": "Assets/squat9.jpg",
+      "videoUrl": "https://media.physitrack.com/exercises/f6f812e9-58a8-4c4c-ab01-4bd32f6931e6/en/video_720p.mp4"
+    },
+    {
+      "title": "Supine knee hugs",
+      "time": "120 seconds",
+      "thumbnail": "Assets/squat8.jpg",
+      "videoUrl": "https://media.physitrack.com/exercises/54f14bf7-e803-4397-b45f-ff0d7bfbcab9/en/video_720p.mp4"
+    },
+    {
+      "title": "Resisted scapula retractions arms straight ",
+      "time": "120 seconds",
+      "thumbnail": "Assets/squat10.jpeg",
+      "videoUrl": "https://media.physitrack.com/exercises/fbc46491-ca3d-487a-bccd-7a2d8a7ca591/en/video_720p.mp4"
+    },
+    {
+      "title": "Incline press-up (chair height)",
+      "time": "120 seconds",
+      "thumbnail": "Assets/squat6.jpg",
+      "videoUrl": "https://media.physitrack.com/exercises/af9f12f5-c6ba-4ba8-92f8-3ba2b3efe261/en/video_720p.mp4"
+    },
+    {
+      "title": "Prone passive lumbar extensions ",
+      "time": "120 seconds",
+      "thumbnail": "Assets/squat7.jpeg",
+      "videoUrl": "https://media.physitrack.com/exercises/d78f9376-e9ed-4bd0-9a18-1a698bc9a527/en/video_720p.mp4"
+    }
+  
+  ]

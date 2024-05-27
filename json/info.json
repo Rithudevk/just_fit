@@ -1,0 +1,24 @@
+[
+
+    {
+        "title":"glues",
+        "img":"Assets/ex1.png"
+
+    },
+    {
+        "title":"Abs",
+        "img":"Assets/ex2.png"
+
+    },
+    {
+        "title":"Legs",
+        "img":"Assets/ex3.png"
+
+    },
+    {
+        "title":"Arms",
+        "img":"Assets/ex4.png"
+
+    }
+
+]
